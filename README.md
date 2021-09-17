@@ -7,3 +7,5 @@
 	5.控制连点的速率
 	6.可以获取键盘的输入
 		.将窗体的KeyPreview设置为true
+	7.设计DataTimePicker的时间格式
+		.设置CustomFormat，然后将Format设置为Custom
